@@ -127,26 +127,25 @@ Generated insights and recommendations from the analysis.
 
 ### Industry Analysis
 
-![Industry Analysis](Visualizations/industry_analysis.png)
+![Industry Analysis](./Visualisations/Bargraph_for_top_15_Industries_job_Frequency.png)
+![Industry Analysis](./Visualisations/Distribution%20of%20Job%20Positions%20Across%20Top%2010%20Industries.png)
+![Industry Analysis](./Visualisations/pie_graph_percentage_distribution_of_top_15_Industries.png)
 
-### Location Analysis
-
-![Location Analysis](Visualizations/location_analysis.png)
 
 ### Salary Distribution
 
-![Salary Distribution](Visualizations/salary_distribution.png)
+![Salary Distribution](./Visualisations/Top%2010%20High%20Paying%20Industries.png)
+![Industry Analysis](./Visualisations/Lowest%20Paying%20Industries.png)
 
 ### Experience Distribution
 
-![Experience Distribution](C:\WORK\Data Analysis Projects\Job Market Data Analysis Project (Naukari.com)\Visualisations\Stripplot between Max_EXP & Max_Pay.png)
-![Experience Distribution](C:\WORK\Data Analysis Projects\Job Market Data Analysis Project (Naukari.com)\Visualisations\Stripplot between MIN_EXP & MIN_PAY.png)
+![Experience Distribution](./Visualisations/Stripplot_between_Max_EXP&Max_Pay.png)
+![Experience Distribution](./Visualisations/Stripplot%20between%20MIN_EXP%20&%20MIN_PAY.png)
 
 ### Top Job Roles
 
-![Top Job Roles](Visualizations/job_roles_analysis.png)
+![Top Job Roles](./Visualisations/bargraph_for_skills_frequency_distribution.png)
 
-> Note: Update image names according to your actual PNG file names.
 
 ---
 
@@ -208,14 +207,18 @@ Higher experience requirements generally correspond to higher salary ranges.
 
 ## 👨‍💻 Author
 
-Vinay Pratap Singh
+**Vinay Pratap Singh**
 
 B.Com (Hons) | Aspiring Data Analyst
+
+📧 Email : vinaypratapsingh2608@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/vinay-pratap-singh2608digital/
 
 Skills:
 
 * Python
-* SQL
+* SQL | PostgreSQL
 * Power BI
 * Excel
 * Data Analysis
